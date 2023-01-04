@@ -2,6 +2,8 @@ I just want
 
 to make some text
 
+and a bit of markdown
+
 in a **markdown** way
 
 that's it
