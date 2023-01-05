@@ -18,6 +18,10 @@ I'm changing this line for documentation.
 
 And why were the newlines not displayed?
 
+It is just a matter of markdown language!!
+
 I'm adding a line which might be different from the remote edit.
 
-It is just a matter of markdown language!!
+I'm quite in the middle of something right now!
+
+
